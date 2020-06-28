@@ -3,10 +3,10 @@
 ## Description 
 The goal of this keyboard layout is to reproduce the behaviour of the website **translit.ru**, but within the system and without the use of third-party plugins, on **MacOS**.
 
-While in standard Russian layout, pressing the keys "privet" will produce "зкшмуе" which doesn't mean anything.
+While in standard Russian layout, pressing the keys "**privet**" will produce "**зкшмуе**" which doesn't mean anything.
 
-Using this layout, you will be able to type "privet" on your keyboard and obtain "привет".
-Several combinations are possible, such as ja for я, sh for ш, shh for щ, and more, available on the website.
+Using this layout, you will be able to type "**privet**" on your keyboard and obtain "**привет**".
+Several combinations are possible, such as **ja** for **я**, **sh** for **ш**, **shh** for **щ**, and more, available on the website.
 
 ## How to install
 
