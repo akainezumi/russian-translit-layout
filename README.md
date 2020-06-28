@@ -21,7 +21,7 @@ The layout will be available in the "Russian" section when adding a new input so
 As of now the base layouts supported are :
 - french AZERTY
 
-If you can't find your layout in the list, **feel free to create an issue with beginning with [Request]** and I will create a new one based on your layout as soon as possible.
+If you can't find your layout in the list, **feel free to create an issue beginning with [Request]** and I will create a new one based on your layout as soon as possible.
 
 ## Software used
 
