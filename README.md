@@ -10,7 +10,7 @@ Several combinations are possible, such as **ja** for **я**, **sh** for **ш**,
 
 ## How to install
 
-Simply copy the file to ```/Library/Keyboard\ Layouts/``` and reboot. The layout will be available in the "Others" section when adding a new input source.
+Simply copy the ```russianTranslit.bundle``` file to ```/Library/Keyboard\ Layouts/``` and reboot. The layout will be available in the "Others" section when adding a new input source.
 
 ## Base layouts supported
 

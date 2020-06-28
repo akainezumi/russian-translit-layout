@@ -8,7 +8,7 @@
 
 -->
 <!--Last edited by Ukelele version 3.4.2.314 on 2020-06-28 at 04:13 (CEST)-->
-<keyboard group="7" id="19775" name="Russian - Translit" maxout="1">
+<keyboard group="7" id="19770" name="Russian - Translit" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>
