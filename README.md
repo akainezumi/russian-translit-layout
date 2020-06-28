@@ -14,7 +14,7 @@ Several combinations are possible, such as **ja** for **я**, **sh** for **ш**,
 - Copy the ```russianTranslit.bundle``` folder to ```/Library/Keyboard\ Layouts/```
 - Reboot. 
 
-The layout will be available in the "Others" section when adding a new input source.
+The layout will be available in the "Russian" section when adding a new input source.
 
 ## Base layouts supported
 
