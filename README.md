@@ -26,3 +26,7 @@ If you can't find your layout in the list, **feel free to create an issue beginn
 ## Software used
 
 The Ukelele app was used to make this layout, using the french AZERTY keyboard layout as base layout.
+
+## Known issues
+
+- <kbd>Command</kbd> + <kbd><key></kbd> (<kbd>⌘</kbd> + <kbd><key></kbd>) based shortcuts do not work. For now you have to switch back to your layout for them to work.
