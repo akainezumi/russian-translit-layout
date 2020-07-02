@@ -12,9 +12,8 @@ Several combinations are possible, such as **ja** for **я**, **sh** for **ш**,
 
 - Clone this project : ```git clone https://github.com/akainezumi/russian-translit-layout.git```
 - Copy the ```russianTranslit.bundle``` folder to ```/Library/Keyboard\ Layouts/```
-- Reboot. 
 
-The layout will be available in the "Russian" section when adding a new input source.
+The layout will be available in the "Russian" section when adding a new input source. If you can't see it, logout then log back in.
 
 ## Base layouts supported
 
@@ -28,5 +27,5 @@ If you can't find your layout in the list, **feel free to create an issue beginn
 The Ukelele app was used to make this layout, using the french AZERTY keyboard layout as base layout.
 
 ## Known issues
-
-- <kbd>Command</kbd> + <kbd>"key"</kbd> (<kbd>⌘</kbd> + <kbd>"key"</kbd>) based shortcuts do not work. For now you have to switch back to your layout for them to work.
+### v1.0.3
+- On non standard English MacOS layouts, <kbd>Command</kbd> + <kbd>"key"</kbd> (<kbd>⌘</kbd> + <kbd>"key"</kbd>) for letters like <key>A</key> or <key>Z</key> on french layout won't work on software like Visual Studio Code who use the position (`code` : `KeyQ` and `keyW`) rather than the value that the key sends (`key`).
